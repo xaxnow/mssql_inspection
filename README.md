@@ -1,7 +1,10 @@
 # mssql_inspection
 check mssql healthy
 
-include a healthy report template .
+include a healthy report template 
+
+## reference
+[https://github.com/datafly/SSMSInfoReports](SSMSInfoReports)
 
 ## check items
 
