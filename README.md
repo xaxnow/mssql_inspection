@@ -11,3 +11,7 @@ include a healthy report template .
 4. Database Information
 5. High Availability
 6. Errors
+
+## TODO
+
+add performance information
