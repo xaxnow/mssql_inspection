@@ -3,9 +3,6 @@ check mssql healthy
 
 include a healthy report template 
 
-## reference
-[https://github.com/datafly/SSMSInfoReports](SSMSInfoReports)
-
 ## check items
 
 1. Server Information
@@ -18,3 +15,7 @@ include a healthy report template
 ## TODO
 
 add performance information
+
+## reference
+[https://github.com/datafly/SSMSInfoReports](SSMSInfoReports)
+
